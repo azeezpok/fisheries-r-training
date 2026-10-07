@@ -1,4 +1,4 @@
-# fisheries-r-training
+# Fisheries R Training: Practical Workflows for Fisheries Data
 This repository contains R scripts, sample datasets, and practical exercises developed for training on Fundamentals of R Programming and Practical Workflows for Fisheries Data.
 
 The training introduces participants to R programming and demonstrates how R can be used for fisheries data management, exploratory data analysis, visualisation, and basic fisheries research applications.
